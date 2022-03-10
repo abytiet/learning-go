@@ -15,7 +15,7 @@ func main() {
 	log.SetFlags(0)
 
 	// Request greeting
-	message, err := greetings.Hello("")
+	message, err := greetings.Hello("Gladys")
 	// If error was returned, print to console and exit program
 	if err != nil {
 		log.Fatal(err)
