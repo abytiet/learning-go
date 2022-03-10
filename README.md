@@ -1,2 +1,2 @@
 # HELLO
-I'm learning Go
+Learning Go with tutorials from https://go.dev/doc/
